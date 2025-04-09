@@ -1,5 +1,3 @@
-wait(0.5)
-
 local VirtualUser = game:GetService("VirtualUser")
 
 game:GetService("Players").LocalPlayer.Idled:Connect(function()
